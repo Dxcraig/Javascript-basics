@@ -1,5 +1,5 @@
 //1 Create a variable to store your name and display it in an alert.
-let myName = "Eniola"
+let myName = "Stephen"
 console.log(myName)
 
 //2 Declare two number variables and show their sum, difference, product, and quotient.
